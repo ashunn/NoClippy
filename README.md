@@ -6,4 +6,4 @@ However, other features may freely be used at the same time.
 
 For use with [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher).
 
-For installation instructions, please see my [custom plugin repository](https://github.com/UnknownX7/DalamudPluginRepo).
+For installation instructions, please see my [custom plugin repository](https://github.com/ashunn/DalamudPluginRepo).
